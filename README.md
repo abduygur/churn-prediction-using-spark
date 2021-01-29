@@ -51,7 +51,7 @@ Most of the input data skewed in this case i preferred RandomForest and GBTClass
 
 # Results
 
-I have evaluate the models with F1 Score. After modeling I chose RandomForeset because F1 Score is higher than the GBTClassifier. AFter hyperparameter tuning steps I achieved 0.79 F1 Score
+I have evaluate the models with F1 Score. After modeling I chose RandomForeset because F1 Score is higher than the GBTClassifier and LogisticRegression. After hyperparameter tuning steps I achieved 0.82 F1 Score
 
 # Author & Acknowledgement
 
