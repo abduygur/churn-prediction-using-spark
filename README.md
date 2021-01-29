@@ -17,7 +17,7 @@ In this case we are going to predict potential churner subscribers. If Sparkify 
 
 The data provided from Sparkify Company has customer logs in the platform. Also the dataset has variables like age, gender, location. First of all we analyzed the dataset and created some features about subscribers. After Feature engineering steps we went to modelling steps and tried some ML alogrithms for predict the potential churner subscribers correctly. In the evaluation step we used F1 Score because the dataset is imbalanced. Accuracy is not a good metric for this problem.
 
-Finally We achieved 0.79 F1 Score with Crossvalidated Random Forest Classifier. Also We prepared an <a href="https://abduygur.medium.com/churn-prediction-using-pyspark-a1f4ef0439b3"> article in the medium </a> about this project
+Finally We achieved 0.82 F1 Score with Crossvalidated Random Forest Classifier. Also We prepared an <a href="https://abduygur.medium.com/churn-prediction-using-pyspark-a1f4ef0439b3"> article in the medium </a> about this project
 
 # Getting Started
 
